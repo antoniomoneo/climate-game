@@ -1,0 +1,32 @@
+{
+  "titulo": "El esqueleto del cambio climático",
+  "idiomas": [
+    "es",
+    "en"
+  ],
+  "introduccion": "Este juego está basado en una instalación artística real del Museo Nacional de Ciencias Naturales, desarrollada por Tangible Data. La escultura representa el cambio climático a través de un esqueleto que simboliza la evolución de la temperatura global desde 1880. Este juego interactivo traslada esa obra a una experiencia narrativa para reflexionar sobre las consecuencias del cambio climático.",
+  "fases": [],
+  "personajes": [
+    {
+      "nombre": "IA Científica",
+      "descripcion": "Guía programada con conocimiento sobre el clima y la historia. Simula empatía y orientación.",
+      "atributos": {
+        "inteligencia": 10,
+        "empatía": 7
+      }
+    },
+    {
+      "nombre": "Jugador",
+      "descripcion": "Joven investigador del futuro, decidido a entender el pasado para cambiar el presente.",
+      "atributos": {
+        "curiosidad": 8,
+        "precisión": 6
+      }
+    }
+  ],
+  "variables": {
+    "conocimiento": 0,
+    "precisión_reporte": 0,
+    "credibilidad": 100
+  }
+}
