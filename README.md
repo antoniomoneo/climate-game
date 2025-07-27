@@ -6,8 +6,5 @@ Este proyecto contiene un juego de ejemplo llamado **Tangible Climate**. Para in
 python game.py
 ```
 
-El juego espera que introduzcas cualquier palabra. Una vez escribas algo, el asistente responderá:
-
-```
-¡Hola! Bienvenido/a al juego Tangible Climate
-```
+Al ejecutarlo verás un mensaje de bienvenida y, a continuación,
+el juego esperará que introduzcas cualquier palabra.
