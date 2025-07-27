@@ -1,0 +1,34 @@
+Título del juego: El esqueleto del cambio climático
+
+Objetivo general del juego:
+Explorar una escultura misteriosa que representa la evolución de la temperatura global desde 1880, reconstruyendo la historia del cambio climático a través de interacciones con una IA científica. El objetivo final es redactar un reporte convincente que sirva de advertencia a futuros científicos.
+
+Nota introductoria:
+Este juego está basado en una instalación artística real del Museo Nacional de Ciencias Naturales, desarrollada por Tangible Data. La escultura representa el cambio climático mediante un esqueleto que refleja la evolución de la temperatura global.
+
+Tono del lenguaje:
+Didáctico, respetuoso, reflexivo y accesible para adolescentes. Con toques de misterio y urgencia científica.
+
+Restricciones de contenido:
+- No abordar temas políticos o controversiales.
+- No se permite lenguaje ofensivo, vulgar ni discriminatorio.
+- El contenido debe ser seguro para todo público y comprensible a nivel educativo (15 años).
+
+Requisitos técnicos:
+- Juego multilenguaje (español, inglés).
+- Estructura por fases, con una única ubicación visual (la escultura).
+- Modularización del texto para facilitar traducción y expansión.
+- Decisiones centradas en el lenguaje y el conocimiento adquirido.
+- Las variables internas afectan el resultado del reporte final.
+
+Notas al desarrollador:
+- Puede implementarse como aventura conversacional con interfaz mínima.
+- La IA Científica debe actuar como narradora, evaluadora y guía.
+- El sistema de puntuación debe reflejar precisión, claridad y responsabilidad del jugador.
+
+Configuración sugerida del modelo:
+- Temperatura: 0.7
+- Top-p: 0.9
+- Top-k: 40
+- Penalización de frecuencia: 0.5
+- Penalización de presencia: 0.5
